@@ -6,7 +6,7 @@ Backend Developement Enthusiast
 
 I'm currently pursuing a BE computer science engineering (CSE) with focus on backend developement . I’m dedicated to continuous learning.
 
-* 🌍  I'm based in Coimbatore
+* 🌍  I'm based in Tamil Nadu
 * ✉️  You can contact me at [ananthignanavel8@gmail.com](mailto:ananthignanavel8@gmail.com)
 * ⚡  Building my skills , shaping my future .
 
